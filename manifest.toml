@@ -11,8 +11,8 @@ maintainers = ["Antoine"]
 
 [upstream]
 license = "AGPL-3.0-or-later"
-website = "https://framagit.org/toitoinebzh/petitesannonces"
-code = "https://framagit.org/toitoinebzh/petitesannonces"
+website = "https://github.com/Ccile155/petitesannonces_Fabritech"
+code = "https://github.com/Ccile155/petitesannonces_Fabritech"
 
 [integration]
 yunohost = ">= 11.2"
